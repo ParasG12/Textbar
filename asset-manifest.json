@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Textbar/static/css/main.abd64e84.css",
+    "main.js": "/Textbar/static/js/main.e3956a45.js",
+    "static/js/787.719ec76d.chunk.js": "/Textbar/static/js/787.719ec76d.chunk.js",
+    "static/media/logo.svg": "/Textbar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Textbar/index.html",
+    "main.abd64e84.css.map": "/Textbar/static/css/main.abd64e84.css.map",
+    "main.e3956a45.js.map": "/Textbar/static/js/main.e3956a45.js.map",
+    "787.719ec76d.chunk.js.map": "/Textbar/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.e3956a45.js"
+  ]
+}
